@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\adminwebapp\\adminwebapp\\views\\admin\\addsupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|solutionrelative:adminwebapp\\views\\admin\\addsupplier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\adminwebapp\\adminwebapp\\views\\admin\\addpharmacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|solutionrelative:adminwebapp\\views\\admin\\addpharmacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\adminwebapp\\adminwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|solutionrelative:adminwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\adminwebapp\\adminwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|solutionrelative:adminwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\adminwebapp\\adminwebapp\\views\\admin\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|solutionrelative:adminwebapp\\views\\admin\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\adminwebapp\\adminwebapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|solutionrelative:adminwebapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\adminwebapp\\adminwebapp\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|solutionrelative:adminwebapp\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\adminwebapp\\adminwebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|solutionrelative:adminwebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\adminwebapp\\adminwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55F595F1-BD38-498C-8C8F-78F28AEEF3E5}|AdminWebApp\\AdminWebApp.csproj|solutionrelative:adminwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdminWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdminWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T15:51:14.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pharmacy.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Models\\Pharmacy.cs",
+              "RelativeDocumentMoniker": "AdminWebApp\\Models\\Pharmacy.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Models\\Pharmacy.cs",
+              "RelativeToolTip": "AdminWebApp\\Models\\Pharmacy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:05:38.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AdminWebApp\\appsettings.json",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\appsettings.json",
+              "RelativeToolTip": "AdminWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T13:41:53.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPharmacy.cshtml",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Views\\Admin\\AddPharmacy.cshtml",
+              "RelativeDocumentMoniker": "AdminWebApp\\Views\\Admin\\AddPharmacy.cshtml",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Views\\Admin\\AddPharmacy.cshtml",
+              "RelativeToolTip": "AdminWebApp\\Views\\Admin\\AddPharmacy.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T15:50:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Views\\Admin\\Success.cshtml",
+              "RelativeDocumentMoniker": "AdminWebApp\\Views\\Admin\\Success.cshtml",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Views\\Admin\\Success.cshtml",
+              "RelativeToolTip": "AdminWebApp\\Views\\Admin\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T13:59:48.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "AdminWebApp\\Program.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Program.cs",
+              "RelativeToolTip": "AdminWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:22:11.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddSupplier.cshtml",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Views\\Admin\\AddSupplier.cshtml",
+              "RelativeDocumentMoniker": "AdminWebApp\\Views\\Admin\\AddSupplier.cshtml",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Views\\Admin\\AddSupplier.cshtml",
+              "RelativeToolTip": "AdminWebApp\\Views\\Admin\\AddSupplier.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T15:50:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AdminWebApp\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AdminWebApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:49:19.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "AdminWebApp\\Models\\Supplier.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\AdminWebApp\\AdminWebApp\\Models\\Supplier.cs",
+              "RelativeToolTip": "AdminWebApp\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:05:50.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

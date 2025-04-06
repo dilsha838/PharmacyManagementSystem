@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\pharmacyapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\pharmacyapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\models\\tender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\tender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\models\\drugorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\models\\drugorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\controllers\\pharmacycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\controllers\\pharmacycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|e:\\icbt hnd\\4 sem\\my assigement\\soc\\tharini\\system\\pharmacyapi\\pharmacyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C688F77-01AB-4271-990F-67050A418BF8}|PharmacyAPI\\PharmacyAPI.csproj|solutionrelative:pharmacyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 263,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\Stock.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Models\\Stock.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:45:47.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pharmacy.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Models\\Pharmacy.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\Pharmacy.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Models\\Pharmacy.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\Pharmacy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:47:31.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PharmacyAPI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:48:59.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PharmacyAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:58:59.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Controllers\\StockController.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Controllers\\StockController.cs",
+              "RelativeToolTip": "PharmacyAPI\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:02:29.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Controllers\\SupplierController.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "PharmacyAPI\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:02:30.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\Supplier.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Models\\Supplier.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:02:32.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tender.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Models\\Tender.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\Tender.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Models\\Tender.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\Tender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:12:12.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PharmacyAPI.http",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\PharmacyAPI.http",
+              "RelativeDocumentMoniker": "PharmacyAPI\\PharmacyAPI.http",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\PharmacyAPI.http",
+              "RelativeToolTip": "PharmacyAPI\\PharmacyAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-22T19:25:35.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PharmacyController.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Controllers\\PharmacyController.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Controllers\\PharmacyController.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Controllers\\PharmacyController.cs",
+              "RelativeToolTip": "PharmacyAPI\\Controllers\\PharmacyController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:02:26.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DrugOrder.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Models\\DrugOrder.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Models\\DrugOrder.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Models\\DrugOrder.cs",
+              "RelativeToolTip": "PharmacyAPI\\Models\\DrugOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:03:06.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PharmacyAPI\\Program.cs",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\Program.cs",
+              "RelativeToolTip": "PharmacyAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:59:03.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PharmacyAPI\\appsettings.json",
+              "ToolTip": "E:\\ICBT HND\\4 sem\\My Assigement\\SOC\\Tharini\\System\\PharmacyAPI\\PharmacyAPI\\appsettings.json",
+              "RelativeToolTip": "PharmacyAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T15:08:11.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

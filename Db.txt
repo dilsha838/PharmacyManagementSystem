@@ -1,0 +1,73 @@
+CREATE DATABASE IF NOT EXISTS pharmacydb;
+USE pharmacydb;
+
+
+
+CREATE TABLE Suppliers (
+    SupplierId INT PRIMARY KEY AUTO_INCREMENT,
+    CompanyName VARCHAR(255) NOT NULL,
+    CompanyRegistrationId VARCHAR(100) UNIQUE NOT NULL,
+    Email VARCHAR(255) UNIQUE NOT NULL,
+    Phone VARCHAR(20) NOT NULL,
+    ProductCategories TEXT NOT NULL,
+    Password VARCHAR(255) NOT NULL
+);  
+
+
+
+
+CREATE TABLE Stocks (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    DrugName VARCHAR(255) NOT NULL,
+    Quantity INT NOT NULL,
+    ExpiryDate DATE NOT NULL,
+    ManufactureDate DATE NOT NULL,
+    Location VARCHAR(255) NOT NULL,
+    Price DECIMAL(10,2) NOT NULL,
+    StockType ENUM('Internal', 'External') NOT NULL,
+    
+    SupplierName VARCHAR(255),
+    SupplierDate DATE,
+    CompanyName VARCHAR(255),
+    CHECK (
+        (StockType = 'External' AND SupplierName IS NOT NULL AND SupplierDate IS NOT NULL AND CompanyName IS NOT NULL) OR
+        (StockType = 'Internal' AND SupplierName IS NULL AND SupplierDate IS NULL AND CompanyName IS NULL)
+    )
+);
+
+
+
+CREATE TABLE Pharmacy (
+    PharmacyId INT PRIMARY KEY AUTO_INCREMENT,
+    Name VARCHAR(255) NOT NULL,
+    Address TEXT NOT NULL,
+    PharmacyRegistrationID VARCHAR(255) NOT NULL,
+    ContactNumber VARCHAR(20) NOT NULL,
+    Email VARCHAR(255) UNIQUE NOT NULL,
+    Password VARCHAR(255) NOT NULL
+);
+
+
+
+CREATE TABLE Tenders (
+    TenderId INT PRIMARY KEY AUTO_INCREMENT,
+    CompanyRegistrationId VARCHAR(20) NOT NULL,
+    TenderDetails TEXT NOT NULL,
+    SubmissionDate DATETIME NOT NULL
+);
+
+CREATE TABLE DrugOrders (
+    DrugOrderId INT PRIMARY KEY AUTO_INCREMENT,
+    PharmacyId INT NOT NULL,
+    DrugID INT NOT NULL,
+    Quantity INT NOT NULL,
+    OrderDate DATETIME NOT NULL
+);
+
+
+
+
+
+
+
+

@@ -1,0 +1,91 @@
+﻿@model List<PharmacyWebApp.Models.StockModel>
+
+@{
+    ViewData["Title"] = "Stock";
+}
+
+<h2>Stock</h2>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Search: <input type="text" name="searchString" value="@ViewData["CurrentFilter"]" />
+            <input type="submit" value="Search" class="btn btn-default" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+
+    <style>
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+            .table th, .table td {
+                padding: 10px;
+                border: 1px solid;
+                text-align: left;
+            }
+
+            .table th {
+                font-weight: bold;
+            }
+
+        .form-actions {
+            margin-bottom: 15px;
+        }
+
+            .form-actions input[type="text"] {
+                padding: 5px;
+                border: 1px solid;
+                border-radius: 3px;
+            }
+
+            .form-actions input[type="submit"] {
+                padding: 5px 10px;
+                border: 1px solid;
+                border-radius: 3px;
+                cursor: pointer;
+            }
+
+        a {
+            text-decoration: none;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+
+    </style>
+    <thead>
+        <tr>
+            <th>Drug Name</th>
+            <th>Quantity</th>
+            <th>Expiry Date</th>
+            <th>Manufacture Date</th>
+            <th>Location</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DrugName</td>
+                <td>@item.Quantity</td>
+                <td>@item.ExpiryDate.ToShortDateString()</td>
+                <td>@item.ManufactureDate.ToShortDateString()</td>
+                <td>@item.Location</td>
+                <td>@item.Price</td>
+                <td>
+                    <a asp-action="BuyDrug" asp-controller="Pharmacy" asp-route-id="@item.Id">Buy</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
